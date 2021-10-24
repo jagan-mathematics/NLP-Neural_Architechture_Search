@@ -43,7 +43,7 @@ If you want to do model search with your own dataset then do some changes in
 As of now it our implementation only supports TSV or CSV file with text in first column and label in second column. We had faced lot of problems while using keras tokenizer, so we decided to create my own. It will do some basic processing like lowering text and removing special charaters.
 
 **step 3**
-now let's search for the best!!!
+now let search for the best!!!
 ```
   python main.py
 ```
